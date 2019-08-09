@@ -1,0 +1,6 @@
+framework module Pods_RPSUITests {
+  umbrella header "Pods-RPSUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
